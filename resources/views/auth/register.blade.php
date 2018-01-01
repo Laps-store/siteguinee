@@ -4,7 +4,7 @@
    
 @section('content')
 <br>
-<div class="w3-padding-64">
+<div class="w3-container w3-padding-64" onclick="w3.hide('#appSidebar')">
     <div class="row">
         <div class="col-sm-6 col-md-offset-3">
             <div class="panel panel-primary">

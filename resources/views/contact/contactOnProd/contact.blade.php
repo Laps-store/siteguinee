@@ -35,7 +35,7 @@
                
                
                <div class="form-group {!! $errors->has('g-recaptcha-response') ? 'has-error' : ''!!}">   
-                  <div class="g-recaptcha " data-sitekey="6Le2uDcUAAAAAA3bv3FOKKKL3J5zo-DbXIY-dEK2"></div>
+                  <div class="g-recaptcha " data-sitekey="6LfbPDwUAAAAAGThMq2vhU33yTSbLVu8r3YpjAT_"></div>
                   {!!$errors->first('g-recaptcha-response', '<small class="help-block">:message</small>')!!}
                </div>
                

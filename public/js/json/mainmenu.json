@@ -6,47 +6,47 @@
         {"menuName":"Carrières", "id":"mm14", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/staff"}
     ],
     "mainmenu2": [
-        {"menuName":"Energies et Industries", "id":"mm21", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"},
-        {"menuName":"Ingenierie", "id":"mm22","class":"w3-bar-item btn w3-text-white w3-hover-red w3-large", "href":"#"},
-        {"menuName":"Telecom et Media", "id":"mm23", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"},
-        {"menuName":"IT et IS", "id":"mm24", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"}
+        {"menuName":"Energies et Industries", "id":"mm21", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/expertises"},
+        {"menuName":"Ingenierie et Travaux", "id":"mm22","class":"w3-bar-item btn w3-text-white w3-hover-red w3-large", "href":"/expertises"},
+        {"menuName":"Telecom et Media", "id":"mm23", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/expertises"},
+        {"menuName":"IT et IS", "id":"mm24", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/expertises"}
     ],
     "mainmenu3": [
-        {"menuName":"Energies", "id":"mm31", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"},
-        {"menuName":"Commerce et Distribution", "id":"mm32","class":"w3-bar-item btn w3-text-white w3-hover-red w3-large", "href":"#"},
-        {"menuName":"IT et IS", "id":"mm33", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"},
-        {"menuName":"Telecom et Media", "id":"mm34", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"}
+        {"menuName":"Energies", "id":"mm31", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/secteurs"},
+        {"menuName":"Commerce et Distribution", "id":"mm32","class":"w3-bar-item btn w3-text-white w3-hover-red w3-large", "href":"/secteurs"},
+        {"menuName":"IT et IS", "id":"mm33", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/secteurs"},
+        {"menuName":"Telecom et Media", "id":"mm34", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/secteurs"}
     ], 
     "mainmenu4": [
-        {"menuName":"Conseil et Assistance", "id":"mm41", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"},
-        {"menuName":"Maintenance des infrastructures", "id":"mm42", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large", "href":"#"},
-        {"menuName":"Realisation des projets", "id":"mm43", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"},
-        {"menuName":"Numerique", "id":"mm44", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"}
+        {"menuName":"Conseil et Assistance", "id":"mm41", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/solutions"},
+        {"menuName":"Maintenance des infrastructures", "id":"mm42", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large", "href":"/solutions"},
+        {"menuName":"Realisation des projets", "id":"mm43", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/solutions"},
+        {"menuName":"Numerique", "id":"mm44", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/solutions"}
     ],
     
     "footmenu1": [
-        {"menuName":"Qui sommes-nous", "id":"fm11", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"},
-        {"menuName":"Nous contacter", "id":"fm12","class":"w3-bar-item btn w3-text-white w3-hover-red w3-large", "href":"#"},
-        {"menuName":"Actalité", "id":"fm13", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"},
-        {"menuName":"Carrières", "id":"fm14", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"}
+        {"menuName":"Qui sommes-nous", "id":"mm11", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/aboutus"},
+        {"menuName":"Nous contacter", "id":"mm12","class":"w3-bar-item btn w3-text-white w3-hover-red w3-large", "href":"/contact"},
+        {"menuName":"Actalité", "id":"mm13", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/news"},
+        {"menuName":"Carrières", "id":"mm14", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/staff"}
     ],
     "footmenu2": [
-        {"menuName":"Energies et Industries", "id":"fm21", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"},
-        {"menuName":"Ingenierie", "id":"fm22","class":"w3-bar-item btn w3-text-white w3-hover-red w3-large", "href":"#"},
-        {"menuName":"Telecom et Media", "id":"fm23", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"},
-        {"menuName":"IT et IS", "id":"fm24", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"}
+        {"menuName":"Energies et Industries", "id":"mm21", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/expertises"},
+        {"menuName":"Ingenierie et Travaux", "id":"mm22","class":"w3-bar-item btn w3-text-white w3-hover-red w3-large", "href":"/expertises"},
+        {"menuName":"Telecom et Media", "id":"mm23", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/expertises"},
+        {"menuName":"IT et IS", "id":"mm24", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/expertises"}
     ],
     "footmenu3": [
-        {"menuName":"Energies", "id":"fm31", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"},
-        {"menuName":"Commerce et Distribution", "id":"fm32","class":"w3-bar-item btn w3-text-white w3-hover-red w3-large", "href":"#"},
-        {"menuName":"IT et IS", "id":"fm33", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"},
-        {"menuName":"Telecom et Media", "id":"fm34", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"}
+        {"menuName":"Energies", "id":"fm31", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/secteurs"},
+        {"menuName":"Commerce et Distribution", "id":"fm32","class":"w3-bar-item btn w3-text-white w3-hover-red w3-large", "href":"/secteurs"},
+        {"menuName":"IT et IS", "id":"fm33", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/secteurs"},
+        {"menuName":"Telecom et Media", "id":"fm34", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/secteurs"}
     ], 
     "footmenu4": [
-        {"menuName":"Conseil et Assistance", "id":"fm41", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"},
-        {"menuName":"Maintenance des infrastructures", "id":"fm42", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large", "href":"#"},
-        {"menuName":"Realisation des projets", "id":"fm43", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"},
-        {"menuName":"Numerique", "id":"fm44", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"#"}
+        {"menuName":"Conseil et Assistance", "id":"fm41", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/solutions"},
+        {"menuName":"Maintenance des infrastructures", "id":"fm42", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large", "href":"/solutions"},
+        {"menuName":"Realisation des projets", "id":"fm43", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/solutions"},
+        {"menuName":"Numerique", "id":"fm44", "class":"w3-bar-item btn w3-text-white w3-hover-red w3-large","href":"/solutions"}
     ] 
     
 }

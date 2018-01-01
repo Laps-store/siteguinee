@@ -15,6 +15,9 @@ Route::group(['midleware'=>'web'], function(){
     Route::get('/aboutus', function(){ return view('about_us');});
     Route::get('/staff', function(){ return view('carriere');});
     Route::get('/news', function(){ return view('news');});
+    Route::get('/expertises', function(){ return view('expertises');});
+    Route::get('/secteurs', function(){ return view('secteurs');});
+    Route::get('/solutions', function(){ return view('solutions');});
 
     Auth::routes();
 
